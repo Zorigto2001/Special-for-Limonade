@@ -1,0 +1,5 @@
+﻿  wireframe.cpp
+  The contents of <ranges> are available only with C++20 concepts support.
+  The contents of <numbers> are available only with C++20 or later.
+C:\Users\Zorigto Damdinov\Desktop\Laba2(6)\Laba2(6)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+  Laba2(6).vcxproj -> C:\Users\Zorigto Damdinov\Desktop\Laba2(6)\Debug\Laba2(6).exe
