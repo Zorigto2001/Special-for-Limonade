@@ -1,0 +1,4 @@
+﻿  app.cpp
+  The contents of <numbers> are available only with C++20 or later.
+C:\Users\Zorigto Damdinov\Desktop\Laba1(6)\Laba1(6)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+  Laba1(6).vcxproj -> C:\Users\Zorigto Damdinov\Desktop\Laba1(6)\Debug\Laba1(6).exe
